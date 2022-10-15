@@ -22,4 +22,4 @@ You can use the escape sequence "\t" to put a tab character between columns of a
 6. Add a loop in main that checks myexp with the values -0.1, -1.0, -10.0, and -100.0. Comment on the accuracy.
 
 ## Part 2 - Submit via GitHub Pull Request
-* Performe the same Pull request steps you've been doing all semester!
+* Perform the same Pull request steps you've been doing all semester!
