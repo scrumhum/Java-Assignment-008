@@ -3,7 +3,7 @@ Excercise 7.5 From the Book
 
 ## Part 1 - Write the following code in the provided Java class **InfiniteSeries**
 
-One way to calculate ex is to use the infinite series expansion: ex =1+x+x^2/2!+x^3/3!+x^4/4!+...
+One way to calculate e^x is to use the infinite series expansion: e^x =1+x+x^2/2!+x^3/3!+x^4/4!+...
 
 The ith term in the series is x^i/i!.
 
