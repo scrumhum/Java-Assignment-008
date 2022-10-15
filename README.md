@@ -1,6 +1,8 @@
 # Java-Assignment-008
 Excercise 7.5 From the Book
 
+## Part 1 - Write the following code in the provided Java class **InfiniteSeries**
+
 One way to calculate ex is to use the infinite series expansion: ex =1+x+x^2/2!+x^3/3!+x^4/4!+...
 
 The ith term in the series is x^i/i!.
@@ -18,3 +20,6 @@ You can use the escape sequence "\t" to put a tab character between columns of a
 5. Write a loop in main that invokes check with the values 0.1, 1.0, 10.0, and 100.0. How does the accuracy of the result vary as x varies? Compare the number of digits of agreement rather than the difference between the actual and estimated values.
 
 6. Add a loop in main that checks myexp with the values -0.1, -1.0, -10.0, and -100.0. Comment on the accuracy.
+
+## Part 2 - Submit via GitHub Pull Request
+* Performe the same Pull request steps you've been doing all semester!
